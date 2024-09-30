@@ -1,0 +1,23 @@
+/*
+    Hello.css는 Hello컴포넌트에 대한 스타일이지만, 렌더링시 <head>태그 안에 포함된다.
+    즉, 모든 컴포넌트에 스타일이 다 적용된다.
+    각 컴포넌트에 독립적인 스타일을 작성하기 위해서는 아래처럼 import 한다
+        컴포넌트명.module.css 후 import styles from "/Hello.module.css";
+                                        이름은 내맘
+    요소에서는 className={styles.box}
+    브라우저 개발자 검사에서 보면 아래처럼 class가 생성됨
+    <div class="Hello_box_tT7h9">컴포넌트명.module.css</div>
+            컴포넌트명_클래스명_hash값
+*/
+
+h1{
+    color:whitesmoke;
+    background-color: lightgoldenrodyellow;
+    opacity: 1;
+}
+
+.box{
+    width: 450pxp;
+    height: 50px;
+    background-color: tomato;
+}
