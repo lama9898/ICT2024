@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "username": "kim",
+      "password": "kim1234",
+      "name": "김길동",
+      "profile": "김길동의 회원 정보 입니다.",
+      "id": "23d5"
+    },
+    {
+      "username": "lee",
+      "password": "lee1234",
+      "name": "이길동",
+      "profile": "이길동의 회원 정보 입니다.",
+      "id": "8a58"
+    },
+    {
+      "username": "park",
+      "password": "park1234",
+      "name": "박길동",
+      "profile": "박길동의 회원 정보 입니다.",
+      "id": "00c3"
+    }
+  ],
+  "bbs": [
+    {
+      "id": "1",
+      "title": "김길동입니다",
+      "content": "김길동입니다\n김길동입니다\n김길동입니다\n김길동입니다\n김길동입니다",
+      "username": "kim",
+      "postDate": "2024-7-12",
+      "views": 0
+    },
+    {
+      "id": "2",
+      "title": "이길동입니다1",
+      "content": "이길동입니다1\n이길동입니다1",
+      "username": "lee",
+      "postDate": "2024-7-12",
+      "views": 0,
+      "name": "이길동"
+    },
+    {
+      "id": "5",
+      "title": "박길동 3입니다",
+      "content": "박길동 3입니다\n박길동 3입니다\n박길동 3입니다\n박길동 3입니다",
+      "username": "park",
+      "postDate": "2024-7-12",
+      "views": 0
+    },
+    {
+      "id": "7",
+      "title": "허리가 아파ㅠㅠ",
+      "content": "아야야야",
+      "username": "kim",
+      "postDate": "2024-7-15",
+      "views": 0,
+      "name": "김길동"
+    },
+    {
+      "id": "8",
+      "title": "힘드니깐 쉬는시간",
+      "content": "주세요",
+      "username": "kim",
+      "postDate": "2024-7-15",
+      "views": 0
+    }
+  ]
+}

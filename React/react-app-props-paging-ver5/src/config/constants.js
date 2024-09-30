@@ -1,0 +1,2 @@
+export const URL={USERS:'http://localhost:3002/users',BBS:'http://localhost:3002/bbs',PHOTO:'https://jsonplaceholder.typicode.com/photos'};
+export const AUTH_KEY={USERNAME:'username',PASSWORD:'password'};
