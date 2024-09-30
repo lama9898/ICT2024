@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "username": "tom",
+      "password": "1234",
+      "name": "토마토",
+      "profile": "토마토의 회원 정보입니다.",
+      "id": "72bc"
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "name": "테스트",
+      "profile": "테스티이잉",
+      "id": "63d7"
+    }
+  ],
+  "board": [
+    {
+      "id": "1",
+      "title": "title1",
+      "content": "content입니드아아아ㅏ아아아아아아",
+      "username": "tom",
+      "postDate": "2024-07-10",
+      "views": 0
+    },
+    {
+      "id": "2",
+      "title": "안녕하세요",
+      "content": "감사해요\n잘 있어요\n다시 만나요",
+      "username": "test",
+      "postDate": "2024-7-11",
+      "views": 0
+    },
+    {
+      "id": "3",
+      "title": "집에 가고싶다",
+      "content": "이준이가 혼자얘기한다",
+      "username": "test",
+      "postDate": "2024-7-11",
+      "views": 0
+    },
+    {
+      "id": "4",
+      "title": "test",
+      "content": "testste",
+      "username": "test",
+      "postDate": "2024-7-11",
+      "views": 0
+    },
+    {
+      "id": "5",
+      "title": "taetaet",
+      "content": "12121323",
+      "username": "test",
+      "postDate": "2024-7-11",
+      "views": 0
+    },
+    {
+      "id": "6",
+      "title": "tests",
+      "content": "testst",
+      "username": "test",
+      "postDate": "2024-7-11",
+      "views": 0
+    }
+  ]
+}
